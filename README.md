@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c848f243-40fc-41ae-a98d-a89c2b3587ac" alt="Diagram" width="350" height='300'/>
 </p>
-<p align="center"><em>Figure 1: Receiver Operating Curve of Ensemble Model.</em></p>
+<p align="center"><em>Figure 1: Receiver Operating Curve of Ensemble Counterpart.</em></p>
 
 
 
