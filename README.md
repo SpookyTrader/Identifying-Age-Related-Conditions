@@ -1,7 +1,17 @@
 ## Introduction
+This project is a Kaggle competition originally hosted by InVitro Cell Research. It aims to develop machine learning tools for predicting the absence 
+or presence of age-related medical conditions based on measurable health characteristics of patients. This will also enable the discovery and understanding
+of the relationship between aged-related conditions and certain health characteristics. The details of the competition can be found in
+the link below. Here, I have developed a machine learning pipeline for accomplishing this aims using the dataset obtained from the source below.
 
+Description of the project:
+https://www.kaggle.com/competitions/icr-identify-age-related-conditions/overview
+
+Data source:
+https://www.kaggle.com/competitions/icr-identify-age-related-conditions/data
 
 ## Methodology
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69b21bfb-090b-4121-82c4-83c9b8e308b4" alt="Diagram" width="900" height='300'/>
