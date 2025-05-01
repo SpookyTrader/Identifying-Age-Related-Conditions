@@ -3,6 +3,11 @@
 
 ## Methodology
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69b21bfb-090b-4121-82c4-83c9b8e308b4" alt="Diagram" width="900" height='300'/>
+</p>
+<p align="center"><em>Figure 1: Ensemble learner derived from 3 Indiviudual Learners.</em></p>
+
 
 ## Key Results
 
@@ -39,14 +44,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c848f243-40fc-41ae-a98d-a89c2b3587ac" alt="Diagram" width="350" height='300'/>
 </p>
-<p align="center"><em>Figure 1: Receiver Operating Curve of Ensemble Counterpart.</em></p>
+<p align="center"><em>Figure 2: Receiver Operating Curve of Ensemble Counterpart.</em></p>
 
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/39d1fb5e-6847-471f-ab29-2809516b2b64" alt="Diagram" width="1200" height='350'/>
 </p>
-<p align="center"><em>Figure 2: Ranking of Features in Order of Descending Importance to Model's Predictive Power.</em></p>
+<p align="center"><em>Figure 3: Ranking of Features in Order of Descending Importance to Model's Predictive Power.</em></p>
 
 
 
