@@ -59,7 +59,7 @@ The key prediction results for the final hold-out test dataset are as summarized
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c848f243-40fc-41ae-a98d-a89c2b3587ac" alt="Diagram" width="350" height='300'/>
 </p>
-<p align="center"><em>Figure 2: Receiver Operating Curve derived from aggregated predictions of the Ensemble Learner.</em></p>
+<p align="center"><em>Figure 2: Receiver Operating Curve - Aggregated Prediction Performance of Ensemble Learner.</em></p>
 
 
 
